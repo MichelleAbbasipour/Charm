@@ -1,0 +1,40 @@
+CALENDAR PAGE
+- maintain scroll position/scroll to bottom/jump to anchor when click on a date, click on resuest appointment button
+- stop month on calendar defaulting to current month when click on 'Request' button!
+- add confirm button/functionality onto email message
+- day numbers under 10 showing first 0 in date as a string
+
+REGISTER PAGE
+- encrypt password
+
+FORGOTTEN PASSWORD 
+- make it work for the user to enter their username OR email
+- add username to email which gets sent to user
+
+PROFESSIONALS HOME PAGE
+- no access if logged in (as client or pro)
+
+REPORTS PAGE
+- need to process some reports
+
+CONTACT PAGE
+- contact details for me
+- contact form for me
+- search for business
+
+EMPLOYEE PAGE (as treatments)
+- content needed or remove
+
+CLIENTS SECTION ON PRO SYSTEM (as treatments)
+- view all clients
+- add new client
+- search for client
+
+WORKING HOURS 
+- remove this page
+
+BUSINESS PROFILE
+- view as client page needs to be done
+
+CLIENTS HOME PAGE
+- extra pages needed (view previous appointments? search for business? view/edit profile?)

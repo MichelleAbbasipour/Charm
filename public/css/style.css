@@ -1,0 +1,206 @@
+/* styling for devices max-width 479px */
+
+/******************/
+/* global styling */
+/********************/
+#main_content {
+    padding-bottom: 1em;
+}
+
+.centered {
+    float: none;
+    display: inline-block;
+    text-align: center;
+}
+.text_center {
+    text-align: center;
+}
+.green {
+    color: #DBE9D8;
+}
+.blue {
+    color: #C2D4D8;
+}
+.cream {
+    color: #F2EFE8;
+}
+.purple {
+    color: #B0AAC2;
+}
+.strong {
+    font-weight: bold;
+}
+.hidden {
+    display:none;
+}
+a, a:hover {
+    text-decoration: none;
+}
+.navbar-inverse, .navbar-nav>li>a, a {
+    color: black;
+}
+.btn-primary {
+    background-color:#B0AAC2;
+    border-color:#B0AAC2;
+    color: white;
+}
+.btn-secondary {
+    background-color:#C2D4D8;
+    border-color:#C2D4D8;
+    color: white;
+}
+.btn-primary:hover, .btn-primary:active:hover {
+    background-color:#8980A5;
+    border-color:#8980A5;
+    color: black;
+}
+.btn-secondary:hover, .btn-secondary:active:hover {
+    background-color:#4C767F;
+    border-color:#4C767F;
+    color: black;
+}
+.btn_container{
+    padding: 0.5em;
+}
+.table-borderless tbody tr td, .table-borderless tbody tr th, .table-borderless thead tr th, .table-borderless {
+    border: none;
+}
+td button {
+    vertical-align: middle;
+    font-size: 2em;
+}
+/***************************/
+/* header */
+/***************************/
+header {
+}
+
+.navbar-header, .navbar {
+    background-color: #C2D4D8;
+    border-color: #C2D4D8;
+}
+
+.navbar-inverse .navbar-toggle {
+    border-color: #FFF;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #000;
+}
+
+.icon-bar {
+    color: black;
+}
+.navbar-nav>li>a {
+    padding: 0.3em;
+    margin: 0;
+}
+/***************************/
+/* individual page styling */
+/***************************/
+
+
+/* *********** redirect pages ********** */
+
+
+/* *********** home page ********** */
+#page_wrapper {
+    width: 96%;
+    margin-top: 4em;
+}
+
+#home_btns {
+    margin-top: 4em;
+}
+
+#home_btns > div {
+    padding-bottom: 1em;
+}
+
+#home_btns > div button{
+    padding: 1em 0 1em 0;
+}
+
+/* *********** login page ********** */
+
+
+/* *********** logout page ********** */
+
+
+/* *********** register page ********** */
+
+/* *********** clients home page ********** */
+
+    
+/* *********** professionals home page ********** */
+
+
+/* *********** client search page ********** */
+
+/* *********** calendar booking page ********** */
+#monthTitle h4 {
+        text-align: center;
+        vertical-align: middle;
+    }
+#dateSelected {
+   
+}
+
+/***************************/
+/* footer */
+/***************************/
+footer {
+}
+
+.form-horizontal .has-feedback .form-control-feedback {
+    right: -15px;
+}
+.form-inline {
+    padding-bottom: 1em;
+}
+#tableHeader{
+    text-align: center;
+<<<<<<< HEAD
+    font-size: 1.6em;
+=======
+   
+    font-size: 1.8em;
+>>>>>>> origin/master
+}
+.icon {
+    font-size: 2.2em;
+}
+.table>tbody>tr>td {
+    padding: 2px;
+}
+table {
+    width: 90%;
+}
+.today_btn {
+    margin:0;
+    padding: 0;
+    background-color: bisque;
+    margin-top: 0.5em;
+}
+td {
+    width: 30px;
+<<<<<<< HEAD
+}
+
+.today {
+    background-color: bisque;
+}
+#daynumber_btn {
+   outline: solid black 1px;
+}
+#daynumber_outline {
+    outline: solid red 1px;
+}
+.notToday {
+    background-color: white;
+}
+.beforeToday {
+    background-color: grey;
+=======
+>>>>>>> origin/master
+}
